@@ -38,6 +38,6 @@
 
 <h3 align="left">Connect With Me!</h3>
 <p align="left">
-<a href="https://linkedin.com/in/hyunbae choi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="hyunbae choi" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/hyunbae-choi-4a0860195/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="hyunbae choi" height="30" width="40" /></a>
 <a href="https://instagram.com/ogharambae" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ogharambae" height="30" width="40" /></a>
 </p>
