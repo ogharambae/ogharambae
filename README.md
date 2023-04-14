@@ -5,7 +5,7 @@
 <h3 align="start">Hello! I am a junior software developer with a passion for creating innovative and efficient solutions. My skillset includes competence in programming languages such as Python, Java, and JavaScript, as well as experience in frameworks such as React, Node.js, Express.js and Three.js. I also have experience working with cloud services such as AWS and Docker. The following includes some projects I've worked on in the past. If you wish to view my portfolio, just click the link below!</h3>
 <hr>
 
-👨‍💻 My projects are available at [https://ogharambae.github.io/hyunbae_portfolio.github.io/](https://ogharambae.github.io/hyunbae_portfolio.github.io/)
+👨‍💻 My projects are available at [https://hyunbae-choi-portfolio.netlify.app/](https://hyunbae-choi-portfolio.netlify.app/)
 
 📫 How to reach me **hyunbaechoi93@gmail.com**
 
