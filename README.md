@@ -3,10 +3,7 @@
 # About
 
 <h3 align="start">
-Hey there! My name is HyunBae Choi, and I'm thrilled to have recently graduated from BCIT's Computer Systems Technology program. I'm a big believer in creating innovative and efficient solutions, and I'm passionate about using my skills to make a difference. I have experience with a variety of programming languages, including Python, Java, C#, Ruby, and JavaScript, and I'm also familiar with 
-frameworks like React, Node.js, Express.js, Three.js, and Rails. On top of that, I've had the chance to work with cloud services like AWS and Docker.
-<br><br>
-If you'd like to learn more about me and what I can do, feel free to check out my portfolio! You'll find a collection of some of my best work, as well as my contact information. Thanks for taking the time to read about me, and I can't wait to see what exciting opportunities lie ahead!
+Hello! I am a software developer with passion and experience in building strong and scalable applications and leading complex data migrations. I can apply extensive experience building ETL pipelines, optimizing database performance, and developing secure, high-performance back-end solutions. I am fluent in modern technologies like TypeScript, Go, and Google Cloud. I have also proven my ability to work in Agile environments and side by side with cross-functional teams in the delivery of innovative solutions. Have a proven track record in implementing front-end features with back-end functionality and driving projects from concept to deployment, including successful participation in hackathons and freelance contracts. I have good problem-solving skills while constantly learning new technologies so I can deliver impactful software solutions!
 </h3>
 <hr>
 
