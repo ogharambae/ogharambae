@@ -7,8 +7,6 @@ Hello! I am a software developer with passion and experience in building strong 
 </h3>
 <hr>
 
-👨‍💻 My projects are available at https://hyunbae-choi-portfolio.netlify.app/
-
 📫 How to reach me **hyunbaechoi93@gmail.com**
 
 <hr>
